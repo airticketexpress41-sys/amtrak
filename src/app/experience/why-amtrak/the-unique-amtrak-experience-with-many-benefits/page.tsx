@@ -39,7 +39,7 @@ export default function UniqueAmtrakExperiencePage() {
           landscapes, from the Pacific Coast to the Rocky Mountains, offering views that are
           simply not visible from highways or airways. Our scenic routes include the California
           Zephyr, Coast Starlight, and Empire Builder, each offering a unique perspective on
-          the country's natural beauty.
+          the country&apos;s natural beauty.
         </p>
       </section>
 

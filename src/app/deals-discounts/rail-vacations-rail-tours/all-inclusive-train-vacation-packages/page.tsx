@@ -35,7 +35,7 @@ export default function AmtrakVacationsPage() {
       <section className="mb-8">
         <h2 className="text-xl font-semibold mb-4">Popular Destinations</h2>
         <ul className="list-disc pl-6 mb-4 space-y-2">
-          <li><strong>Grand Canyon:</strong> Rail tour from the Southwest to one of America's natural wonders.</li>
+          <li><strong>Grand Canyon:</strong> Rail tour from the Southwest to one of America&apos;s natural wonders.</li>
           <li><strong>California Coast:</strong> Scenic journey along the Pacific coastline with stops in major cities.</li>
           <li><strong>National Parks:</strong> Explore Yellowstone, Glacier, and other iconic parks by rail.</li>
           <li><strong>East Coast Cities:</strong> Visit Boston, New York, Philadelphia, and Washington, DC.</li>

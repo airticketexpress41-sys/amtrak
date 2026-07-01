@@ -36,7 +36,7 @@ export default function GiftCardsPage() {
         <h2 className="text-xl font-semibold mb-4">How to Purchase</h2>
         <p className="mb-4">
           To purchase an Amtrak eGift card, visit our gift card page, select the amount you
-          wish to give, and provide the recipient's email address. The gift card will be sent
+          wish to give, and provide the recipient&apos;s email address. The gift card will be sent
           instantly. Physical gift cards can be purchased at any staffed Amtrak station during
           business hours.
         </p>

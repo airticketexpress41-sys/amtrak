@@ -25,7 +25,7 @@ export default function ChangingReservationPage() {
           involve fare differences or change fees depending on your ticket type.
         </p>
         <p className="mb-4">
-          To make changes online, log into your Amtrak account, navigate to "My Trips," and select
+          To make changes online, log into your Amtrak account, navigate to &quot;My Trips,&quot; and select
           the reservation you wish to modify. You can change the date, time, or route of your
           travel, subject to availability.
         </p>
