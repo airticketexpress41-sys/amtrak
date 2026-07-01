@@ -4,6 +4,7 @@ import "./globals.css";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import JsonLd from "@/components/JsonLd";
+import CallNow from "@/components/CallNow";
 
 const openSans = Open_Sans({
   variable: "--font-sans",
@@ -62,6 +63,7 @@ export default function RootLayout({
           skip to Navigation
         </a>
         <JsonLd />
+        <CallNow />
         <Header />
         <main id="main-content">{children}</main>
         <Footer />
