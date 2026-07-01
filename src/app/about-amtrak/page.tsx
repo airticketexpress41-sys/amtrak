@@ -20,7 +20,7 @@ export default function AboutAmtrakPage() {
       <section className="mb-8">
         <h2 className="text-xl font-semibold mb-4">Who We Are</h2>
         <p className="mb-4">
-          Amtrak is America's intercity passenger rail service, operating more
+          Amtrak is America&apos;s intercity passenger rail service, operating more
           than 300 trains daily across 46 states, the District of Columbia, and
           three Canadian provinces. Established in 1971, we connect communities
           and provide a safe, efficient, and environmentally responsible

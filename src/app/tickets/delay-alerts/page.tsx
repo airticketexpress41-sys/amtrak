@@ -22,7 +22,7 @@ export default function DelayAlertsPage() {
         <p className="mb-4">
           Never miss an update about your train. Amtrak Delay Alerts provide
           real-time notifications sent directly to your email or mobile phone
-          whenever there is a change in your train's status, including delays
+          whenever there is a change in your train&apos;s status, including delays
           and platform changes.
         </p>
       </section>
@@ -32,7 +32,7 @@ export default function DelayAlertsPage() {
         <ul className="list-disc pl-6 mb-4 space-y-2">
           <li>Enter your reservation number and contact information.</li>
           <li>Choose to receive alerts via email, text message, or both.</li>
-          <li>Receive automatic updates when your train's status changes.</li>
+          <li>Receive automatic updates when your train&apos;s status changes.</li>
           <li>Alerts cover departures, arrivals, cancellations, and platform assignments.</li>
         </ul>
       </section>
